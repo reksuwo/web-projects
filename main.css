@@ -1,0 +1,76 @@
+
+
+.jumbotron {
+    background-color: red;
+    color: #fff; 
+    font-size: 25px;
+}
+
+.cart-page {
+    background-color: black; 
+    color: #ffff;
+ 
+}
+
+.search {
+    text-align: right; /* Align the content inside the search div to the left */
+
+}
+
+.container1 {
+	text-align: center;
+}
+
+
+
+
+.add-cart {
+    background-color: #000; /* Change the background color of the cart button to black */
+    color: #fff; /* Change the text color of the cart button to white */
+    font-size: 40px; /* Adjust the font size of the cart button */
+    padding: 10px 20px; /* Adjust the padding to increase the button size */
+    border: none; /* Remove border for a cleaner look (optional) */
+    cursor: pointer; /* Add a pointer cursor for better user interaction */
+}
+
+
+
+
+.card {
+    height: 100%; /* Set the height of the card container to 100% of its parent */
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.add {
+    margin-top: auto;
+}
+
+
+.row:not(:last-child) {
+    margin-bottom: 20px; /* Add margin between rows of cards, except for the last row */
+}
+
+
+
+
+.price {
+    text-align: center; /* You can change this to "left" or "right" as per your preference */
+    font-size: 50px; /* Adjust the font size as needed */
+    color: #ff0000; /* Change the color to your desired price color */
+    margin-top: 20px; /* Adjust the top margin to create space between the price and other elements */
+    flex-direction: column;
+}
+
+
+
+.name {
+    font-size: 50px;
+}
+
+
+.container1 {
+    text-align: center;
+}
+
